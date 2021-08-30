@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150941168478",
+    "project_id": "divider-app-b8d3d",
+    "storage_bucket": "divider-app-b8d3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150941168478:android:32b0c1a763eb7bd7a2d5cf",
+        "android_client_info": {
+          "package_name": "com.theppasin.divider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150941168478-ls66k6mp1c690nuef07dg7p6lqu7q665.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX5DJHrMKaUIURLLiJgSsf0xLuAny1-pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150941168478-ls66k6mp1c690nuef07dg7p6lqu7q665.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
